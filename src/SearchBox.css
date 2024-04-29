@@ -1,0 +1,11 @@
+.Outer {
+    display: flex;
+    justify-content: center; /* Horizontally center-align */
+    align-items: center; /* Vertically center-align */
+    height: 100vh; /* Make the container fill the entire viewport height */
+  }
+  
+  .SearchBox {
+    text-align: center;
+  }
+  
